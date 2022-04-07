@@ -1,0 +1,7 @@
+{
+  "name": "ionic-local-notification-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
